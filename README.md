@@ -30,7 +30,7 @@ This project analyzes a targeted sequencing dataset focused on the **EGFR** gene
 - `code/` — R code used for the analysis
 - `presentation/` — PowerPoint presentation
 - `README.md` — project description
-- `LICENSE` — license file
+
 
 ## Software used
 
