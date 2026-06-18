@@ -26,9 +26,8 @@ This project analyzes a targeted sequencing dataset focused on the **EGFR** gene
 
 ## Repository contents
 
-- `report/` — final PDF report
+- `presentation/` — final PDF report
 - `code/` — R code used for the analysis
-- `presentation/` — PowerPoint presentation
 - `README.md` — project description
 
 
