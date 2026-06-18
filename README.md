@@ -11,10 +11,7 @@ This project analyzes a targeted sequencing dataset focused on the **EGFR** gene
 - variant calling with **iVar**
 - manual validation in **IGV**
 - biological interpretation of the detected variants
-- three AI/ML questions about:
-  - molecular digital twins
-  - heterogeneous graph neural networks
-  - mutation frequency vs protein production
+
 
 ## Main results
 
@@ -22,7 +19,7 @@ This project analyzes a targeted sequencing dataset focused on the **EGFR** gene
 - The main target region was mapped to **chromosome 7**, within the **EGFR** locus.
 - Coverage analysis revealed **four true EGFR amplicons** and one weak off-target peak.
 - Variant calling identified **three candidate EGFR variants**, including a clinically relevant **EGFR exon 19 deletion**.
-- The AI section discusses how modern machine learning can help model complex biological systems in cancer genomics.
+
 
 ## Repository contents
 
